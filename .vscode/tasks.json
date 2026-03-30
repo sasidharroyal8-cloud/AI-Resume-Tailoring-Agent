@@ -1,0 +1,135 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Resume Tailoring Agent",
+			"type": "shell",
+			"command": "cd \"c:\\KMED-Tech\\AI Resume Tailoring Agent\" && \"C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe\" run.py",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Resume Agent",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"run.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Resume Agent",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"run.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Professional Formatting",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"test_formatting.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Professional Formatting",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"test_formatting.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Professional Formatting",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"test_formatting.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Professional Formatting",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"test_formatting.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Email Format",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"test_email.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Resume Tailoring Agent",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"run.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Resume Agent",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"run.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Resume Tailoring Agent",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"run.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Resume Agent",
+			"type": "shell",
+			"command": "C:/Users/sasid/AppData/Local/Programs/Python/Python314/python.exe",
+			"args": [
+				"run.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
